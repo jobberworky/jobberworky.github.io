@@ -1,5 +1,7 @@
 {
-  "name": "Vitrina",
+  "name": "Internet Vitrina",
+  "short_name": "Vitrina",
+  "start_url": "https://jobberworky.github.io/",
   "icons": 
    [
         {
